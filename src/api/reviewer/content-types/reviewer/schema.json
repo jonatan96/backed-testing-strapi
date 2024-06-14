@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "reviewers",
+  "info": {
+    "singularName": "reviewer",
+    "pluralName": "reviewers",
+    "displayName": "reviewer"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
